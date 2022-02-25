@@ -1,0 +1,454 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Christian caveat to all loyal subjects, or, A looking-glass displaying the foul face of phanaticism ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55499</idno>
+            <idno type="STC">Wing P3</idno>
+            <idno type="STC">ESTC R14437</idno>
+            <idno type="EEBO-CITATION">13024806</idno>
+            <idno type="OCLC">ocm 13024806</idno>
+            <idno type="VID">96674</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55499)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96674)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 394:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Christian caveat to all loyal subjects, or, A looking-glass displaying the foul face of phanaticism ...</title>
+                  <author>A. P.</author>
+               </titleStmt>
+               <extent>23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Epistle dedicatory signed: A.P.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Claire Tolan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Claire Tolan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96674:1" rendition="simple:additions"/>
+            <p>A <hi>Chriſtian Caveat</hi> TO ALL Loyal Subjects: OR, A Looking-Glaſs Diſplaying the foul Face of PHANATICISM; IN</p>
+            <p>I. <hi>The wicked Principles,</hi>
+            </p>
+            <p>II. <hi>Horrid Treaſons, Cruelties, and bloody Practices,</hi>
+            </p>
+            <p>III. <hi>Intollerable Pride,</hi>
+            </p>
+            <p>IV. <hi>Abſurd Prayers and Devotions,</hi>
+            </p>
+            <p>V. <hi>Lying Miracles,</hi>
+            </p>
+            <p>VI. <hi>Filthy Impurities</hi>
+            </p>
+            <p>OF Phanatical Sectariſts.</p>
+            <p>Dedicated to the YOUTH of <hi>Great Britain,</hi> for an Antidote againſt the Poiſon of <hi>Phanaticiſm.</hi>
+            </p>
+            <p>
+               <hi>Obſtructum est Os loquentium iniqua.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Randal Taylor,</hi> near <hi>Sationers</hi> Hall, 1684.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96674:2" rendition="simple:additions"/>
+            <pb facs="tcp:96674:2" rendition="simple:additions"/>
+            <head>To all <hi>Loyal Proteſtants</hi> and <hi>Subjects,</hi> eſpecially the <hi>Youth</hi> of <hi>Great Britain, Philanax</hi> wiſh<g ref="char:EOLhyphen"/>eth Grace, Underſtanding, and Perſeverance in the Truths of God, and a Juſt Hatred of <hi>Phanaticiſm.</hi>
+            </head>
+            <p>ABove a Year ſince came forth a Book, call'd, <hi>A Looking-Glaſs to Diſplay the fair Face of</hi> Popery; which is ſo pitiful a thing, ſo ſtuff't with prodigious Lies and Abſurdities, that all underſtanding Men must needs rather think it to be Contemn'd, than Anſwer'd; yet becauſe in the Circumſtances we are at preſent, it tends to create Fears and Jealouſies in Vulgar Apprehenſions of I know not what, to raiſe Diſturbances in the Nation against King and Government, and it may make ſome impreſ<g ref="char:EOLhyphen"/>ſion on weaker Minds, for whom 'tis chiefly intended, I thought it not amiſs, to prepare this Antidote against that Poiſon.</p>
+            <p>For I cannot apprehend any thing more advantagious to both your Temporal and Eternal Concerns, than to preſent you with a True Draught of <hi>Phanaticiſm,</hi> ſtript of its Diſguiſes; which at preſent not only threatens us, but has the confidence to paint and var<g ref="char:EOLhyphen"/>niſh over it ſelf in ſuch pleaſing colours, as to delude
+<pb facs="tcp:96674:3"/> unwary Heads, into a fond opinion of its Innocency and fair Proceedings; when in truth there's nothing in the World that ſo infallibly tends to your Eternal Deſtruction hereafter, and in the mean time to make you perfect Slaves and Vaſſals to the Cheats and Luſts of a few baſe and ſelf-deſigning People here on Earth.</p>
+            <p>Though the Author in a Jocoſe Humour makes his Readers merry with <hi>Popiſh</hi> Tricks, as he relates them; yet Chriſtian Charity invites me not to laugh at, but pity <hi>Phanaticks</hi> poor Souls! ſo miſled by Satan's ſubtilties, that under pretence of Piety, they ruin Religion, and for the good of the Kingdom, deſtroy the Government.</p>
+            <p>Here you ſhall find the Ways of <hi>Phanaticks</hi> in ſome ſort diſplay'd, their Principles detected, their Cruelties laid open; how they play the Devil for God's ſake, by murthering Kings, enſlaving Subjects, breaking Oaths, combining in rebellious Aſſociations, overturn<g ref="char:EOLhyphen"/>ing Governments, violating the Laws of God and Na<g ref="char:EOLhyphen"/>ture, and the Rights of Kingdoms, to advance what they call, <hi>The good Old Cauſe,</hi> and that by a godly <g ref="char:V">Ʋ</g>ſurpation, as the days of <hi>Cromwel,</hi> they might lord it over Prince and People.</p>
+            <p>You may here (generous Youths and Virgins) ob<g ref="char:EOLhyphen"/>ſerve the chief Lineaments of <hi>Phanaticiſm.</hi> A ſmall Picture of the greatest Monſter that ever plagued the World. Whom to have drawn at full length would have requir'd Volumes; but he's a ſorry Mathematician
+<pb facs="tcp:96674:3"/> that by the length of <hi>Hercules</hi>'s Foot, cannot gueſs at the dimenſions of his Body.</p>
+            <p>The chief Policy of Satan is by <hi>Phanaticiſm,</hi> to undermine our Holy Faith, the ground-work of our Salvation, to extirpate Charity, the Bond of Perfection, the very Life and Soul of Religion; 'tis a very Plot upon Chriſtianity it ſelf. For where the enthuſiaſtical extravagant Fancies of theſe Zealots prevail, all Order is ruin'd; where their canting way of Prayer and Preaching is practis'd, Chriſtian Religion, ſo full of Gravity and Majeſty in her proper Dreſs, is made ridi<g ref="char:EOLhyphen"/>culous; the power of Godlineſs is deſtroy'd by their empty Forms and ſhadows of Piety; and for the Fruits of the Spirit, which are <hi>Love, Joy, Peace,</hi>
+               <note place="margin">Gal. 5. 22:</note> 
+               <hi>Long-ſuffering, Gentleneſs, Good<g ref="char:EOLhyphen"/>neſs, Faith, Meekneſs, Temperance,</hi> we have nothing but the Works of the Fleſh, as <hi>Adultery, Fornication, Uncleanneſs, Laſciviouſneſs, Idolatry, Witchcraft, Hatred, Variance, Emu<g ref="char:EOLhyphen"/>lations, Wrath, Contentions, Seditions, Here<g ref="char:EOLhyphen"/>ſies, Envyings, Murders,</hi> &amp;c. as we find too true by ſad Experience.</p>
+            <p>This is the true Draught of <hi>Phanaticiſm,</hi> which the numerous Broods of <hi>Sectariſts</hi> ſtrive to advance among us, though by never ſo wicked Means, as horrid Lies, Sham-Plots, Subordinations, Perjuries, Mur<g ref="char:EOLhyphen"/>thers, Seditions, Inſurrections, Conſpiracies, Rebellions, Maſſacres, to the utter ruin of King and Kingdom;
+<pb facs="tcp:96674:4"/> and had taken effect, if God of his infinite goodneſs to this Nation had not diſcover'd their Helliſh Policies. We need not have recourſe to Foreign Hiſtories, the days of <hi>Charles</hi> the First, of famous Memory, and of our preſent most gracious Soveraign, are ſufficient to teach us what is <hi>Phanaticiſm,</hi> and what we are to expect from <hi>Phanaticks,</hi> when once they get into the Saddle.</p>
+            <p>God of his infinite mercy in his good time make us of one Heart and Mind, as St. <hi>Luke</hi> deſcribes the Pri<g ref="char:EOLhyphen"/>mitive Chriſtians, <hi>That we may not be like Chil<g ref="char:EOLhyphen"/>dren, toſſed to and fro with the wind of every Doctrin, but being grounded in Faith, and rooted in Charity, we may live in Peace and Concord, and bring forth the Fruits of Ever<g ref="char:EOLhyphen"/>laſting Life:</hi> Which is the cordial Prayer of,</p>
+            <closer>
+               <signed>Your Servant, in Chriſt Jeſus, A. P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:96674:4"/>
+            <head>A <hi>Looking-Glaſs</hi> FOR PHANATICISM, By way of DIALOGUE, BETWEEN <hi>TIMOTHY,</hi> a <hi>Phanatick;</hi> and <hi>PHILANAX,</hi> a <hi>True Lover</hi> of his King and Country.</head>
+            <div type="part">
+               <head>The Firſt Leſſon, <hi>Of Phanatick Principles.</hi>
+               </head>
+               <sp>
+                  <speaker>Timo<g ref="char:EOLhyphen"/>thy.</speaker>
+                  <p>
+                     <hi>HAve you,</hi> Philanax, <hi>ſeen a little Book, call'd,</hi> A Looking-Glaſs for Popery, <hi>not long ſince Printed?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Philanax.</speaker>
+                  <p>Yes, <hi>Tim,</hi> I have, and read it alſo; but in my poor Judgment it contains for the moſt part ſuch pitiful, railing, lying ſtuff, that it rather advances, than beats down <hi>Popery.</hi> And I clearly diſcover the Author to be a <hi>ſeditious Sectarist.</hi>
+                  </p>
+                  <pb facs="tcp:96674:5"/>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>How,</hi> Phil? <hi>You ſhall hardly make me believe that; for we hate</hi> Popery <hi>perfectly, and all ſtand for the good of our Coun<g ref="char:EOLhyphen"/>try, and ſhall make our King a glorious King, if he will be ruled by us.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Yes, yes, as ye made <hi>Charles</hi> the Firſt, the beſt of Princes 'Tis well known how <hi>Phanaticks</hi> make Kings glo<g ref="char:EOLhyphen"/>rious; neither can it be otherwiſe by their Principles. I aſſure you, <hi>Tim,</hi> if you know the Principles of <hi>Presbyterians,</hi> and other <hi>Phanaticks,</hi> in relation to Government, you muſt needs confeſs, That 'tis impoſſible to be a <hi>Phanatick</hi> and a Loyal Sub<g ref="char:EOLhyphen"/>ject both together. Have you never ſeen a Book, written by a Doctor of the Church of <hi>England,</hi> call'd, <hi>A Cav<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t for all Kings, Princes, and Prelates?</hi> The Author there demonſtrates, to all unbiaſs'd judgments, that according to the Principles of the firſt Fathers of <hi>Presbyterian</hi> Fury and <hi>Phanaticiſm,</hi> 'tis im<g ref="char:EOLhyphen"/>poſſible to be <hi>Presbyterians,</hi> who are the Main-Guard and Prin<g ref="char:EOLhyphen"/>cipal Leaders of the <hi>Phanatick Army,</hi> and at the ſame time not to be Rebels againſt their Soveraign. And this he does evidence, not only from their prodigious Doctrins in their own Books made publick to the World, but alſo by their bloody Practices and Rebellions in all places where they could make head againſt their Governours.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>I am not ſo good an Hiſtorian as to know that. But tell me,</hi> Phil, <hi>Is it not lawful for Subjects, by a Godly Aſſociation, to raiſe an Army, and fight against their Soveraign for their Religion and Liberty, when he becomes a Tyrant, and oppoſes the Truths of Jeſus Christ?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>How, <hi>Tim,</hi> lawful? Then farwel Peace, and Truth, and Liberty, and Property, and Order, and Government, and all goodneſs, to make way for Rebellion, War and Bloodſhed, <hi>Anarchy</hi> and Confuſion to Reign among us. For thoſe who ſay this is lawful, make themſelves likewiſe Judges to give Sen<g ref="char:EOLhyphen"/>tence when their Soveraign turns Tyrant and perſecutes the true Profeſſors of the Goſpel. But how comes it to paſs, <hi>Tim,</hi> that you lay ſuch Poſitions to the <hi>Jeſuits</hi> charge, to make them odious as Devils, and teach the ſame horrid
+<pb n="9" facs="tcp:96674:5"/> Doctrins among your ſelves, and notwithſtanding muſt be reputed Saints?</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>I ſee;</hi> Phil, <hi>you live in ignorance, and are not ac<g ref="char:EOLhyphen"/>quainted with the Priviledge of the Saints. Know you not, that there's no Law to them that are in Chriſt Jeſus? But let that paſs. Though I askt you the Queſtion about the lawfulneſs of ſuch Riſings, to hear what you would ſay; I will not believe the</hi> Presbyterians, <hi>and the reſt of the Godly Party, maintain ſuch Principles and Doctrins againſt Kingly Government. However, let the</hi> Jeſuits <hi>ſay what they will to clear themſelves, believe them we will not; 'tis not for our intereſt.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Neither is it for your intereſt to own ſuch rebellious Doctrins, though undeniably evident from the printed Books of thoſe you call the Godly Party, that they maintain ſuch Principles, and put them in practice when arm'd with power.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>I'l not take your word, let me ſee the Authors.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>I queſtion not but you have heard of <hi>Zuinglius,</hi> that martial Phanatick, hot and furious as well in his Writings, as in the Camp. <hi>Kings,</hi> ſays he, <hi>may be Depos'd by the Votes and Suffrages of the Multitude, when they Rule not according to the Law of Chriſt; and 'tis a Work well pleaſing to God,</hi> Tom. 1. Art. 42, &amp; 43. And <hi>l. 4. p.</hi> 868. tells <hi>Caeſar</hi> plainly, <hi>That they will obey him, if he will be Directed by them; otherwiſe they will take a courſe with him to the purpoſe.</hi> Which is the ſame courſe ſhould have been taken with our gracious Soveraign by the godly Aſſociates, if God had not prevented their Deſigns.</p>
+                  <p>
+                     <hi>Calvin,</hi> that furious Zealot in his Commentaries upon <hi>Da<g ref="char:EOLhyphen"/>niel,</hi> Cap. 6. V. 22. tells Kings boldly, <hi>That they loſe all Au<g ref="char:EOLhyphen"/>thority, when they riſe againſt God, and that men had better ſpit in their Faces, than yield obedience to their Commands, when they grow ſo inſolent, as to rob God of his right.</hi> And all this depends upon <hi>Calvin</hi>'s magiſterial word; he no ſooner ſays ſo, but they ceaſe to be Kings, and every proud <hi>Presbyterian</hi> may ſpit in their Face. And I am ſure when once they begin to ſpit in their Soveraigns Face, 'twill not be long before they cut off his Head. Thus taught <hi>Calvin,</hi> and thus our <hi>Phanaticks</hi> dealt with
+<pb n="10" facs="tcp:96674:6"/> 
+                     <hi>Charles</hi> the Firſt of pious Memory, to make good his Doctrin by their Practice.</p>
+                  <p>
+                     <hi>Beza</hi> treads in the ſame ſteps, animating Subjects to riſe in Arms againſt their Soveraign, in his <hi>Vind. cont: Tyran.</hi> by ſur<g ref="char:EOLhyphen"/>priſing his Towns and Caſtles, oppoſing his Forces; yea, to kill their Kings, if they oppoſe the Truths of Jeſus Chriſt: That is, if they profeſs and maintain any Religion, but what theſe Men fancy to be <hi>Goſpel truths.</hi>
+                  </p>
+                  <p>
+                     <hi>Paraeus,</hi> a great Zealot in his Comm. upon the 13th of the <hi>Romans,</hi> teaches the ſame ſeditious, rebellious Doctrin, with <hi>Gracerus, Aretius,</hi> and <hi>Geskenius,</hi> who were the fatal Firebrands to put the World in Flames about Religion.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>Hold,</hi> Phil, <hi>enough of theſe. But I muſt tell you, theſe are Foreigners, and therefore nothing to us. Do the godly Party of our Kingdoms maintain theſe Principles?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Yes, doubtleſs, they are ſomething to you, if you fol<g ref="char:EOLhyphen"/>low their Doctrins; but your Maſters in our Kingdoms are as guilty of ſuch horrid Principles as any Foreigners.</p>
+                  <p>
+                     <hi>Knox,</hi> that furious Zealot, all Fire and Quickſilver, who firſt began to inflame all <hi>Scotland,</hi> teaches magiſteriouſly, That Princes may be Depoſed by the People, if they prove Tyrants, and act againſt God and his Truth; and in ſuch caſes, all Sub<g ref="char:EOLhyphen"/>jects are free from their Oaths of Allegiance and Obedience, <hi>l. ad Nob. &amp; pop. Scotiae.</hi> And to encourage any deſperate <hi>Phanatick</hi> to murder his Prince in a furious zeal, he is not aſham'd to ſay, <hi>That it were very good, that Rewards were pub<g ref="char:EOLhyphen"/>lickly appointed by the People for ſuch as kill Tyrants, as well as for thoſe who kill ravenous Beaſts;</hi> In Hiſt. <hi>Scot.</hi> p. 372. No <hi>Jeſuit</hi> is comparable to this Fury.</p>
+                  <p>Yet <hi>Goodman</hi> is as bad as he, who in his Book of Obedience, in <hi>Exod.</hi> 17. excepts neither King, nor Queen, nor Emperour, but tells the People, <hi>They muſt ſeize upon Princes, who would ſe<g ref="char:EOLhyphen"/>duce them from God,</hi> that is, their <hi>Phanatical</hi> Novelties, <hi>and tarry them away to the Gallows, and hang them up.</hi>
+                  </p>
+                  <p>
+                     <hi>Buchanan</hi>'s zeal is no leſs fiery and furious; for <hi>p. 61. de jure Reg. Scot.</hi> he tells the People, <hi>That they are above the
+<pb n="11" facs="tcp:96674:6"/> King, for the good of the Kirk and</hi> holy Cauſe, <hi>may Arraign him, Depoſe him, Execute him, and Diſpoſe of the Crown as they pleaſe.</hi> What think you, <hi>Tim?</hi> Are not theſe rare Fellows to make <hi>Apoſtles?</hi> Can ſuch Men as theſe be ſent from God, or have any of the Spirit of <hi>Jeſus Chriſt?</hi> Is it poſſible for <hi>Presbyterians</hi> and other <hi>Phanaticks,</hi> while they maintain ſuch Principles and Doctrines, to be at the ſame time <hi>Phanaticks</hi> and <hi>good Subjects?</hi> Can they at the ſame time endeavour to Depoſe and Murder their King, and yet be true and faithful to him and his Govern<g ref="char:EOLhyphen"/>ment?</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>Say your ſay out, and then I'l tell you what I think on't.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>The <hi>Presbyterians</hi> and other <hi>Phanaticks</hi> here in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> learn'd this Leſſon perfectly, and followed it exactly. In the time of the late horrid Rebellion, it was publickly Preach'd by <hi>Phanatical</hi> Zealots in all places where the Rebels prevail'd, to the utter ruin for a time of King and Government. And according to the Doctrin of theſe Bellows of Sedition, the <hi>Houſe of Commons</hi> Voted, <hi>That the Supreme Power of the Na<g ref="char:EOLhyphen"/>tion was in the People, and conſequently in them their Repreſenta<g ref="char:EOLhyphen"/>tives:</hi> Or words to this effect. And what ſad Conſequences enſued thereupon, I ſhall tell you when from theſe horrid Principles I come to declare their bloody Cruelties.</p>
+                  <p>And now at preſent, did not the Lord <hi>Ruſſel</hi> die with this Perſuaſion, That 'tis lawful to raiſe Arms againſt our Soveraign in the caſe of Religion? And would not Mr. <hi>Sydney</hi> needs be thought to die a Martyr for this <hi>good Old Cauſe?</hi> And this is the true reaſon, why they in a manner juſtifie themſelves at their death, without any open repentance of the Crimes for which they ſuffer; that thoſe of their Faction, whom they leave behind them, may ſtill attempt what they could not bring to paſs by theirendeavours.</p>
+                  <p>And hence it proceeds, that whatever tends to advance among them the <hi>good Old Cauſe,</hi> muſt be ſanctified; ſo that Lies, Perjuries, Sacriledges, Treaſons, Sham-Plots, real Conſpira<g ref="char:EOLunhyphen"/>cies againſt King and Government, Seditions, Rebellions, Murder of their Soveraign, Maſſacres, muſt all be good and lawful to
+<pb n="12" facs="tcp:96674:7"/> order and advance what they call <hi>Religion</hi> and the <hi>good Cauſe,</hi> that they may fiſh in troubled Waters, and lord it over Prince and People. Now, <hi>Tim,</hi> what think you of theſe Firebrands, who break nothing but Flames and Confuſion to Kings and Kingdoms.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>In verity</hi> Phil, <hi>I did not think ſo much wickedneſs could have layn hid imwardly under the outſide of ſo much piety; but now I ſee all is not Gold that glisters, and that</hi> Phanaticks <hi>are dange<g ref="char:EOLhyphen"/>rous People, teaching ſuch</hi> Doctrines <hi>ſo deſtructive of</hi> Monarchy. <hi>I begin to be your</hi> Convert, <hi>and ſhall for the future look more narrowly into their Actions.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>The Second Leſſon. <hi>Of Phanatical treaſons, cruelties and bloody practices.</hi>
+               </head>
+               <sp>
+                  <speaker>Timo<g ref="char:EOLhyphen"/>thy.</speaker>
+                  <p>I <hi>Have well conſider'd what you told me about</hi> Phanatick <hi>Principles againſt Kingly Government, and am amaz'd and confounded at it. For I took the</hi> Pa<g ref="char:EOLhyphen"/>piſts <hi>only for ſuch Regicides; and all the bloody cru<g ref="char:EOLhyphen"/>elties that have been acted in ſeveral places, our Preachers tell us have been caus'd by</hi> Jeſuits <hi>and</hi> Papiſts <hi>for the</hi> Catholick cauſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Beleive me <hi>Tim,</hi> you <hi>Phanatick</hi> Preachers are not to be credited, who think all lyes lawful for the <hi>good old cauſe</hi> as they call it. You ſee already by moſt evident teſtimonies of their own Books, their horrid Pinciples againſt Regall power: and I ſhall make it as clear, that their bloody Practices have been anſwerable to their doctrines, the curſed fruit of ſo bad a tree.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>Make that good once; and I will then confeſs the Saints have thiir failings, as well as others.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>After <hi>Luther</hi> began to gather followers in <hi>Germany;</hi> theſe <hi>Phanati<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k</hi> Principles rais'd ſuch rebellions in thoſe parts
+<pb n="13" facs="tcp:96674:7"/> againſt the Emperor, that above a hundred thouſand were ſlain in thoſe wars; accompanied with ſuch miſeries as made <hi>Germany</hi> an object of pity to all Chriſtian hearts. Did not the ſame prodigious doctrines put <hi>Bohemia</hi> into a miſerable com<g ref="char:EOLhyphen"/>buſtion, that theſe new Saints might poſſeſs the Earth, and Lord it over their Lawful Governours? What tragedies did the ſame principles act in <hi>Switzer-land,</hi> to the overthrow of <hi>Government,</hi> and the ruine of all <hi>Order</hi> and <hi>Religion</hi> where they prevailed? Did not the furious <hi>Calvaniſts</hi> by vertue of the ſame principles rebel againſt their Biſhop and Prince and make themſelves Maſters of his Goods and Territories? What bloody cruelties, prophanations, ſacriledges, murthers, trea<g ref="char:EOLhyphen"/>ſons, rebellions were acted by theſe headſtrong. Zealots in <hi>France,</hi> cannot but force tears from thoſe who read the Chro<g ref="char:EOLhyphen"/>nicles of thoſe times. And did not the <hi>Hollanders</hi> with ſome other Provinces rebel againſt their Leige Lord and King, and poſſeſs themſelves of his Rights and Dominions, annimated by theſe horrid doctrines? Neither can Kings ever expect better where <hi>Phanaticks</hi> are ſtrong enough to head a party againſt the Government.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>I never knew this before. But I was told</hi> Phil, <hi>that the</hi> Papiſts <hi>and</hi> Jeſuits <hi>were the cauſe of all thoſe ſtirs and inſur<g ref="char:EOLhyphen"/>rections.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>They impoſe upon you. <hi>Tim,</hi> 'tis nonſenſe to ſay ſo. All thoſe places enjoyed peace and quiet, till theſe <hi>Phanaticks</hi> aroſe, and became Incendiaries by theſe wicked doctrines. Did not <hi>Knox</hi> and his fellow Martial Goſpellers raiſe a horrid rebllion againſt their Lawful Soveraign Queen <hi>Mary</hi> of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and force her to fly to ſave her<g ref="char:punc">▪</g> life? What think you? Are all the tragical cruelties, ſacriledges, murthers, blood ſhed, and Miſeries attending civil wars to be laid to the charge of the poor innocent Queen, or theſe firebrands? I know they talk much of bloody <hi>Papiſts</hi> in <hi>Ireland,</hi> but I have been told by thoſe who were actually in the warrs there, that the <hi>Phanatick</hi> Zealots did equalize if not out do them in their butcheries.</p>
+                  <p>But to come home, did not theſe <hi>Presbyterian</hi> principles
+<pb n="14" facs="tcp:96674:8"/> raiſe the late rebellion here in <hi>England</hi> againſt our gracious Soveraign <hi>Charles</hi> the firſt, and murd<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r the beſt of Princes in ſo barbarous a manner, as juſtly renders them deteſtable to all Poſterity; And were not the <hi>Phanaticks</hi> now again endeavour<g ref="char:EOLhyphen"/>ing by a moſt horrid and bloody Conſpiracy to act the like or worſe tragedy, to ruine King and Kingdom, and make poor <hi>England</hi> a field of blood, to fill all places with maſſacres, hor<g ref="char:EOLhyphen"/>rours and confuſions? And all this, being annimated and ſet on fire by theſe principles, theſe wretched principles. In<g ref="char:EOLhyphen"/>ſomuch that 'tis obſerv'd by a Proteſtant Doctor in his <hi>Caveat for Princes againſt</hi> Presbyterians, <hi>Page</hi> 93. That in this laſt Century of years, there have been more Princes depos'd and murthr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d for their <hi>Religon</hi> by <hi>Proteſtants of integrity,</hi> as they call themſelves, then in all the others ſince Chriſts time, by the attempts of <hi>Roman Catholicks.</hi> For indeed theſe cruelties and bloody Conſpiracies are the natural fruit of their rebellious Principles but ſuch <hi>Papists</hi> as have roſe in arms againſt their Sovereign, have been taught better things. Witneſs that famous Decree of the <hi>Sorboniſts,</hi> whereby they condemn the doctrine of depoſing King, and abſolving their Subjects from their ſworn allegiance, to be peſtilential, damnable doctrine, and to be abhorred of all men, as new, falſe, erronious, contrary to Scripture, giving occaſion to ſchiſms, derogatory to the Autho<g ref="char:EOLhyphen"/>rity of Kings depending on God alone, hindring the converſion of Heretical and Infidel Princes, deſtroying the publick peace, and tempting ſubjects from their obedience, and animating factions and rebellions againſt Princes which <hi>Sorbon</hi> Sentence was approv'd by the whole Eccleſiaſtical body of <hi>France,</hi> and declared in a publick admonition to the King, <hi>Dec.</hi> 13. 1625.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>I do not much value what the</hi> Sorbon <hi>Doctors ſay, though I cannot quarrell with this decree But I am covinc'd</hi> Phil, <hi>eſpecially by the laſt inſtance of the Conſpiracy; which though the Godly Party endeavour to excuſe, or deny, or extenuate by lyes and for<g ref="char:EOLhyphen"/>geries, as in the caſe of the Earl of</hi> Eſſex; <hi>yet 'tis ſo evident by ſelf-confeſſion, and proofs irrefragable, that who now denyes it, may as well ſay it is not day when the Sun ſhines. And truly I
+<pb n="15" facs="tcp:96674:8"/> begin to be weary of their company, now I plainly perceive, I can<g ref="char:EOLhyphen"/>not be a</hi> Phanatick <hi>and at the ſame time a good Subject.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Pray <hi>Tim,</hi> take notice alſo that thoſe great pretenders to <hi>Religion</hi> are grown to that degree of Madneſs, as to take part with the <hi>Turk</hi> againſt Chriſtianity. For our <hi>Mahometans</hi> Chriſtians here, becauſe they were too far off to aſſiſt the ene<g ref="char:EOLhyphen"/>mies of Chriſt with their hands, did as much as they could help them with their tongues, by praying for their ſucceſs againſt the Chriſtians.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>Indeed I like it not, I ſee the hatred of</hi> Popery <hi>has made them almoſt ceaſe to be Chriſtians.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>The Third Leſſon. <hi>Of Phanatical Pride.</hi>
+               </head>
+               <sp>
+                  <speaker>Philo<g ref="char:EOLhyphen"/>nax.</speaker>
+                  <p>LET me tell thee <hi>Tim,</hi> they who judge of <hi>Religion</hi> by the actions of ſome particular perſons ſhall never be able to juſtify any though never ſo pure and holy in it ſelf. For ſeeing their <hi>Religion</hi> teaches otherwiſe, why ſhould that be condemn'd for their ex<g ref="char:EOLhyphen"/>travagancies? If ſome <hi>Roman-profeſſors</hi> have behav'd them<g ref="char:EOLhyphen"/>ſelves with pride arrogancy, and others of the ſame Church condemn them for it, 'tis evident that ſuch pride is not the fruit of their faith, but the fault of thoſe men, and they muſt anſwer for't. But the moſt intollerable pride of ſome <hi>Phana<g ref="char:EOLhyphen"/>ticks,</hi> of the firſt magnitude and higheſt elevation among them, which I ſhall mention, was approved by their followers and therefore may juſtly be imputed to them.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim</speaker>
+                  <p>I cannot ſay but you ſpeak reaſon go on in your diſcourſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Did you never hear <hi>Tim,</hi> of <hi>John</hi> of <hi>Leyden,</hi> that famous <hi>Phanatick?</hi> This monſter of mankind at length arriv'd to that height of blaſphemous pride and inſufferable arrogan<g ref="char:EOLhyphen"/>cy,
+<pb n="16" facs="tcp:96674:9"/> that he took upon him to be Jeſus Chriſt himſelf and true Saviour of the World; and ſent abroad from <hi>Munſter,</hi> where he had got by pious artif<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ces and rebellious principles the tem<g ref="char:EOLhyphen"/>poral power into his hands, his twelve <hi>Apoſtles</hi> to preach his new Goſpel unto the World; and his crew of followers did main<g ref="char:EOLhyphen"/>tain him in this pro<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>igious pride and blaſphemy till at length divine vengeance fell heavy on his and their accurſed heads, to terrifie others from ſuch antichriſtian Blaſphemies.</p>
+                  <p>But to come home to our ſelves. In the time of the long Parliament, who by no mean pride made themſelves Kings by by deſtroying Monarchy, was not one <hi>James Naylor,</hi> for his wonderful ſeeming Sanctity, cry'd up for the Saviour of the World by the <hi>Phanatick</hi> Rabble, and ſet upon an <hi>Aſs</hi> to ride in triumph on <hi>Palm-Sunday,</hi> as our bleſſed Saviour did to <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> they uſing to him the ſame acclamations, and he glorying in their Blaſphemies? Can any Pride be comparable to this? <hi>Lucifer</hi>'s ambition was to be but like to God, <hi>ero ſimilis altiſſi<g ref="char:EOLhyphen"/>mo;</hi> but theſe Men, or rather antichriſtian Monſters, muſt be no leſs than Jeſus Chriſt and God himſelf. 'Tis true, this blaſphe<g ref="char:EOLhyphen"/>mous <hi>Naylor</hi> was afterwards puniſh't for this prodigious pride, but his Followers call'd it a Perſecution. However, let not <hi>Phanaticks</hi> rail ſo ſimply againſt <hi>Popiſh</hi> Pride, till they themſelves afford ſome Examples of Humility.</p>
+                  <p>I know, <hi>Tim,</hi> you are no ſmall Scripturiſt, read the third Chapter of the ſecond Epiſtle to <hi>Timothy,</hi> and you will find a perfect deſcription of theſe men, <hi>For are not they boaſters of their own ways and holineſs, prond above meaſure, blaſphemers, diſobedient, traitors, heady, high minded, having a form of godlineſs, and deny<g ref="char:EOLhyphen"/>ing the power thereof?</hi> Can this be denied of them? And there<g ref="char:EOLhyphen"/>fore I ſay to thee, <hi>Tim,</hi> what St. <hi>Paul</hi> there ſays to us all, <hi>From ſuch turn away.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>I think your counſel's good. For 'tis time to turn from thoſe whom I ſee now endeavour to overturn the Chriſtian World with Pride and Blaſphemies.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:96674:9"/>
+               <head>The Fourth Leſſon. <hi>Of Phanatical Prayers and Devotions.</hi>
+               </head>
+               <sp>
+                  <speaker>Timo<g ref="char:EOLhyphen"/>thy.</speaker>
+                  <p>
+                     <hi>ARE not thoſe strange devotions</hi> Phil, <hi>which the</hi> Papiſts <hi>uſe, related in the</hi> Proteſtant Looking-Glaſs?</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Yes truely <hi>Tim,</hi> ſtrange and rediculous enough, as there related, if any Papiſts be ſo ſilly as to uſe them. But take my word for't, if the adverſaries of the Church of <hi>Rome</hi> had no better arguments to confute her devo<g ref="char:EOLhyphen"/>tions, they will not be thought the worſe of by rational men. However if ſome <hi>Papiſts</hi> may be guilty of rediculous devo<g ref="char:EOLhyphen"/>tions, I am ſure <hi>Phanaticks</hi> of all men have no reaſon to lay it to their charge, who too often diſgrace this principle part of Chriſtian-worſhip by their extempore effuſions in their publick meetings. What think you of this <hi>Presbyterian</hi> Cant, among other ſuch ſtuff, by a <hi>Scotch</hi> Miniſter before Sermon? <hi>Lord maintain thine own Cauſe, gu'd Lord maintain our holy Cove<g ref="char:EOLhyphen"/>nant; Lord, let the Covenant and the Common Prayer Book wraſtle, gu'd Lord wraſtle, wraſtle I ſay Lord, and I am ſure the Covenant will throw the Common Prayer book upon his back.</hi> Is not this pittiful, rediculous Stuff to be made uſe of in the place of Publick Worſhip? One might fill a book with ſuch canting ſtuff in <hi>Presbyterian</hi> prayers and preach<g ref="char:EOLhyphen"/>ing.</p>
+                  <p>But if you come to <hi>Phanaticks</hi> of a higher elevation, who diſcover Goſpel-verities by a myſterious light which is unin<g ref="char:EOLhyphen"/>telligible, what a Rapſody have you of fine words in them<g ref="char:EOLhyphen"/>ſelves which ſignify nothing as they jumble them together in their nonſenſical devotions? What ſtrange diſorders and confuſions are they guilty of by their pretending to the
+<pb n="18" facs="tcp:96674:10"/> Spirit and Light within, fathering their lyes on the Father of Lights, with horrid Blaſphemies? And I have been told by thoſe who have been preſent at the Meetings of ſome <hi>Phanaticks,</hi> that they have ſeen ſuch abſurd Impieties and Abominations, as are not once to be named among Chri<g ref="char:EOLhyphen"/>ſtians. And yet all theſe will needs be Saints, and being ſtrongly deluded by Satan, think all the World in a Error be<g ref="char:EOLhyphen"/>ſides themſelves. If I ſhould deſcend to Particulars there would be no end.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>I have enough of them, and am reſolv'd to be no longer deluded by them.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Let me alſo tell thee, <hi>Tim,</hi> That what the <hi>Proteſtant Looking-glaſs</hi> ſpeaks of <hi>Popiſh</hi> Pardons and Penances, <hi>&amp;c.</hi> is ſuch jeering, ſcurrilous ſtuff, fill'd with ſuch abominable Lies and unchriſtian Cenſures, that if the Author had any ſenſe of Chriſtianity, he would bluſh to abuſe the World with ſuch Railaries. I am not one who will Patronize ridiculous Pe<g ref="char:EOLhyphen"/>nances; but this I am ſure of, that a Religion which enjoyns Penances for Crimes committed, is more agreeable to the Pra<g ref="char:EOLhyphen"/>ctice of <hi>primitive Chriſtians,</hi> than that which has none at all, and laughs at ſuch Devotions.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>For my part, I ſhall not trouble my ſelf to know what the</hi> Primitive Chriſtians <hi>did. I am for the Purity of the Goſpel, which holy Scripture declares unto us.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div type="part">
+               <pb n="19" facs="tcp:96674:10"/>
+               <head>The Fifth Leſſon, <hi>Of Phanatical Miracles.</hi>
+               </head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>IT is evident from Sacred Writ, That the Chriſtian Faith was confirm'd by innumerable Miracles from Heaven, that both <hi>Jews</hi> and <hi>Gentiles</hi> might by ſuch Divine Atteſtations believe in Jeſus Chriſt and ſave their Souls. The <hi>Acts of the Apoſtles</hi> declare this ſufficiently without diſpute. And that in after ages God did work many Miracles in his Church for the manifeſtation of Truth, and converſion of Unbelievers, cannot be denied by rational men. Now if beſides ſuch as cannot rationally be doubted of in unqueſtionable Records, ſome fooliſh, wicked men, have coun<g ref="char:EOLhyphen"/>terfeited Miracles for politick ends; their faults are not to be imputed to the Church of <hi>Rome,</hi> who ſeverely puniſhes ſuch Impoſtors.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>Methinks,</hi> Phil, <hi>you incline too much to the</hi> Romiſh <hi>ſide. Though your Diſcourſe has brought me to diſlike</hi> Phanaticiſm, <hi>yet I hate</hi> Popery <hi>as much as ever.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>And I love any one who is a Loyal Subject to his So<g ref="char:EOLhyphen"/>veraign. My aim, <hi>Tim,</hi> is to make you a good Subject; which <hi>Phanaticks</hi> neither are, nor can be by their Principles. But pr'ythee, <hi>Tim,</hi> if all Miracles are ceas'd in the Chriſtian Church, and muſt no longer atteſt to ſupernatural Truths, why did <hi>Calvin</hi> ſo endeavour, by a counterfeited Miracle, to confirm his Doctrin?</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>Why, you jeſt,</hi> Phil, <hi>did he ſo?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>'Tis a well known ſtory, related of him by good <hi>Authors;</hi> That compacting with a Zealous Siſter, and her Husband, he was to counterfeit himſelf dead, and the Wife to come running out, crying in the Streets, That her
+<pb n="20" facs="tcp:96674:11"/> Husband died ſuddenly; at the ſame time, as was agreed between them, <hi>Calvin</hi> comes gravely walking by, and de<g ref="char:EOLhyphen"/>mands the cauſe of her Tears and Exclamations. She opens her Caſe; he anſwers in Goſpel-Language, <hi>Weep not,</hi> good Woman, <hi>thy Husband is not dead, but ſleepeth;</hi> and walking in, the People about him, call'd together by the Woman's out-cries, falls to his Prayers, and after a while pronounces with great authority, <hi>I ſay unto thee, ariſe.</hi> This being re<g ref="char:EOLhyphen"/>doubled, the Man ſtirs not, the Woman wonders, and after all endeavours to awake him, he is found dead indeed. Which made the poor Woman change her feigned Tears into real Sorrow, and being almoſt mad at this unexpected accident detects the whole Impoſture. Whereby the Counterfeit is puniſh't, <hi>Calvin</hi> diſgraced, and God glorified. Who deſires to know more of this <hi>Godly Reformer,</hi> let them conſult Dr. <hi>Jerome Bolſec</hi> his conſtant Phyſician, who knew him perfectly, and <hi>Francis Baldwin,</hi> and <hi>Florimond de Remond,</hi> Men juſtly to be credited in their Relations.</p>
+                  <p>Moreover, If you obſerve it, <hi>Tim, Fox</hi> in his Martyrology is very greedy to make every ſtrange thing a Miracle, to Canonize his Saints.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>I ſhall like the</hi> Calviniſts <hi>the worſe for ever for their Father's ſake, if all be true is ſaid of him.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div type="part">
+               <pb n="21" facs="tcp:96674:11"/>
+               <head>The Sixth Leſſon, <hi>Of Phanatical Impurities.</hi>
+               </head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>HOlineſs becomes the Houſe of God for ever; Chriſtian Religion is a holy Religion, and the Catholick Church according to our Creed is a holy Church: but what Prophanations and Sacriledges brought <hi>Phanaticks</hi> into the World, and with what Impurities and Impieties they have continued to infect and diſturb it, is too notorious to be denied, and much to be lamented by all good Chriſtians.</p>
+                  <p>There's no Society upon the face of the Earth, though endowed from Heaven with all means poſſible to advance Holineſs, but has ſome Members that deviate from their Profeſſion, and neglect ſo great a Salvation provided for them. How impertinent therefore is it to rail againſt Religion for the wickedneſſes of ſome Men, who deſpiſing her Counſels, to follow their own corrupt Inclinations, will not be re<g ref="char:EOLhyphen"/>formed, though the zealous Preachers of their own Profeſſion, thunder againſt their wicked Lives, to reduce them to good<g ref="char:EOLhyphen"/>neſs? And how abominable is it for the failings of ſome, to endeavour, by prodigious Lies, to make the reſt odious to the World, who are precious indeed in the ſight of God? Thoſe that are bad are juſtly condemn'd, but the Religion is to be commended, which takes ſuch Care and Pains to bring them to Holineſs. And I wiſh I could ſay as much for the Carnal Impurities committed by <hi>Phanaticks,</hi> who make Reli<g ref="char:EOLhyphen"/>gion the Patroneſs of their Wickedneſs, and muſt be Saints for all their black abominations.</p>
+                  <p>In the days of the uſurping Saints of the long Parliament, when Licentiouſneſs paſs't for Chriſtian-Liberty, a <hi>holy Pha<g ref="char:EOLhyphen"/>natick,</hi>
+                     <pb n="22" facs="tcp:96674:12"/> though married, had an Inſpiration from Heaven, as he pretended, to lye with a Gentleman's Wife, who was a <hi>holy Siſter,</hi> and a handſom Woman, ſhe was ſoon taken with his pious Rhetorick, for ſeeing he ſaid it was the <hi>Will of God,</hi> it muſt be lawful, and done alſo. His own wife takes them in their wickedneſs, and he to juſtifie their execrable adultery, tells her, he could not but wonder that ſhe being his wife ſo long, did not yet know the priviledg of the Saints, and that it was alſo lawful for her, though his wife, to lye with others, who have <hi>a call from God</hi> for it; and thereupon brought her a holy Brother, who pretending an inſpiration, did ratify the new known priviledg to her content.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>Come</hi> Phil, <hi>you abuſe the Godly Party this is hardly credible.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Beleive me <hi>Tim,</hi> 'tis ſo well known as to be diſ<g ref="char:EOLhyphen"/>courſe of the Country for a time, and appear in print; which the Gentleman hearing being a Parliament-Man, whoſe Wife this white Devil had corrupted, came preſently home, and finding it too true, could not be perſwaded but that this priviledg of the Saints was againſt the privileges of Parliament: And ſo my holy Brother was forc't to fly to ſave himſelf from the laſh of Juſtice.</p>
+                  <p>A Zealous Quaking Siſter at <hi>Holm</hi> in <hi>York-ſhire,</hi> not far from the Town where then I liv'd, ſtaying too long with her holy Brother to return to her own dwelling that night, was invited by him to take a bed there, which ſhe accepted, and in the night time being tempted with the Devil of luſt, came to his bed ſide, and calling to him, ſaid, good Brother, our Father bids me come and lye with thee; he reply'd if it be our Fathers will, I ought not to reſiſt it. And thus they make God the Patron of their wickedneſſes.</p>
+                  <p>Another Quaker in thoſe parts when the furious ſpirit was upon him, came running out into the Streets as a man poſſeſt, and crying he had a call from God to kill his Father. And what other madneſſes and impurities are committed among them, I
+<pb n="23" facs="tcp:96674:12"/> had rather bury in ſilence, being a ſhame to Chriſtianity, then fully my paper with the relations.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>I did not think ſuch great ſeeming Saints could have been guilty of ſuch Impieties. But I ſee 'tis high time to return to the</hi> Proteſtant <hi>eſtabliſh'd Church, and Loyalty to my Soveraign.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>I wiſh you many Followers. For the <hi>Phanaticks</hi> at preſent are ſo bloody minded, and impatient to get all Power into their hands, that if the infinite goodneſs of God had not detected their horrid Conſpiracies againſt King and Kingdom, all good Subjects, before now, had been Maſſacred by ſuch cruel, bloody-thirſty Rebels, and the glory of <hi>England</hi> buried in <hi>Anarchy</hi> and <hi>Confuſion.</hi>
+                  </p>
+                  <p>Bleſſed be God for all his Mercies in delivering us from the hands of theſe mercileſs Men. And to prevent it for the fu<g ref="char:EOLhyphen"/>ture, we will conclude this ſhort Caution with this cordial Prayer: <hi>From the Tyranny of furious Zealots, and all their de<g ref="char:EOLhyphen"/>teſtable Enormities, from</hi> Phanatical <hi>Maſſacres, Aſſociations, Lies and Perjuries, from Wolves in Sheeps cloathing, from Pro<g ref="char:EOLhyphen"/>phaneneſs and Sacriledges, from a</hi> Presbyterian <hi>Zeal, and an</hi> Oliverian <hi>Mercy, good Lord deliver us.</hi> And let every true <hi>Engliſh</hi> heart ſay, <hi>AMEN.</hi>
+                  </p>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
